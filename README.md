@@ -1,2 +1,2 @@
 # HTML-CSS
-This are My Html-CSS projects
+These are my Html-CSS projects
